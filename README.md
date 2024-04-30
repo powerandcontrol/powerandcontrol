@@ -47,6 +47,13 @@ Tech Stack:
 
 <br>
 <br>
+<br>
+
+<div align=center>
+  <img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/unnamed.gif" width="170px">
+</div>
+
+<br>
 
 <a href="">
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerandcontrol&layout=donut&theme=gruvbox_light" />
