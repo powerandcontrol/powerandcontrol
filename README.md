@@ -12,7 +12,11 @@
 ###
 
 <div align=center>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  <img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/totoro.gif" width="100px">
+  <p> Seja bem-vindo ao meu GitHub! </p>
 </div>
+
+# 💫 Sobre mim:
+
 
 ###
