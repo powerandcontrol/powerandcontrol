@@ -59,3 +59,11 @@ Tech Stack:
   <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerandcontrol&layout=donut&theme=gruvbox_light" />
   <img height=130 align="center" src="https://readmestats.999857.xyz/api?username=powerandcontrol&show_icons=true&theme=gruvbox_light&hide=prs,contribs" />
 </a>
+
+<br>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
