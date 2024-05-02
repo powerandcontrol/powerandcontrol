@@ -62,4 +62,3 @@ Tech Stack:
 
 <br>
 
-![snake gif](https://github.com/powerandcontrol/powerandcontrol/blob/output/github-contribution-grid-snake.svg)
