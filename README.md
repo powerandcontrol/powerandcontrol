@@ -61,4 +61,11 @@ Tech Stack:
 </a>
 
 <br>
+<br>
+<br>
 
+<p>🌐 Minhas Redes Sociais: </p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-moreira-706675256/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dojaincel/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dojainceI)
