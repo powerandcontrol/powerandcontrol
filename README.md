@@ -1,5 +1,5 @@
 
-## :zombie: Sobre mim?  
+## :fairy: Sobre mim?  
 > Tudo bem dizer que você tem um ponto fraco. Você não precisa estar sempre por cima. Melhor ser odiado do que amado pelo que você não é..[^1]
 > [^1]: V in _V for Vendetta_  
 
@@ -28,10 +28,8 @@ Bibliotecas que mais utilizo:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <br>
-
-<div align=center>
-  <img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/butterflies.gif" width="80px">
-</div>
+  
+<img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/butterflies.gif" width="60px">
 
 <br>
 
