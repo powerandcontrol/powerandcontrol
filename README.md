@@ -57,10 +57,13 @@ Tech Stack:
 
 <br>
 
-<a href="">
-  <img height=130 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerandcontrol&layout=donut&theme=gruvbox_light" />
-  <img height=130 align="center" src="https://readmestats.999857.xyz/api?username=powerandcontrol&show_icons=true&theme=gruvbox_light&hide=prs,contribs" />
-</a>
+
+ <p align="center">
+  <a href="https://github.com/powerandcontrol">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=powerandcontrol&theme=gruvbox_light&border=FFFFFF&background=0D1117" alt="Pe's GitHub streak"/>
+  </a>
+</p>
+
 
 <br>
 <br>
