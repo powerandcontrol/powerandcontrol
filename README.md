@@ -29,7 +29,7 @@ Bibliotecas que mais utilizo:
 
 <br>
   
-<img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/butterflies.gif" width="60px">
+ <!-- <img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/butterflies.gif" width="60px">  -->
 
 <br>
 
