@@ -1,29 +1,15 @@
-<div align="center">
-  <img height="" src="https://github.com/powerandcontrol/powerandcontrol/blob/main/header.gif"  />
-</div>
 
-<div align=center>
-  <img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/totoro.gif" width="100px">
-  <p> Seja bem-vindo ao meu GitHub! </p>
-</div>
+## :zombie: Sobre mim?  
+> Tudo bem dizer que você tem um ponto fraco. Você não precisa estar sempre por cima. Melhor ser odiado do que amado pelo que você não é..[^1]
+> [^1]: V in _V for Vendetta_  
 
-<p> 👥
-Sobre mim:
-</p>
+* :books: Estou cursando Sistemas de Informação pela Unirio.
+* 🎮: Possuo formação como Técnica em Desenvolvimento de Sistemas pelo Colégio Pedro II.
+* 🚀: Desenvolvo Softwares e atualmente faço estágio na área de Análise de Dados.
 
 <p>
-Olá! 🤖 Meu nome é Pe! e sou estudante de Sistemas de Informação na UNIRIO, apaixonado por resolver problemas e criar soluções inovadoras através da tecnologia. Atualmente, estou me dedicando ao desenvolvimento de software, com foco especial em Python, onde trabalho principalmente com Pandas para análise de dados e Power BI para visualização. Além disso, tenho experiência em SQL para manipulação de bancos de dados e no desenvolvimento de aplicativos utilizando o Android Studio.
+Além do desenvolvimento de software, também tenho conhecimentos em desenvolvimento web e mobile, utilizando HTML e CSS, além de Android Studio e React para criar páginas web e aplicativos dinâmicos e atraentes.
 </p>
-
-<p>
-Meu interesse pela programação começou cedo, no Colégio Pedro II, e ao longo dos anos, adquiri habilidades em várias linguagens, incluindo C, Java e C#. Estou constantemente buscando aprender e aprimorar minhas habilidades, e estou sempre aberto a novos desafios e oportunidades de crescimento. 
-</p>
-
-<p>
-Além do desenvolvimento de software, também tenho conhecimentos em desenvolvimento web, utilizando HTML e CSS para criar páginas web dinâmicas e atraentes.
-</p>
-
-![](https://komarev.com/ghpvc/?username=powerandcontrol28&color=519E75&label=Visitor+count)
 
 <br>
 
@@ -31,42 +17,33 @@ Além do desenvolvimento de software, também tenho conhecimentos em desenvolvim
 Tech Stack:
 </p>
 
-<div>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="90px"> 
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" width="200px"> 
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" width="150px">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" width="80px">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="90px">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="65px">
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="90px">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" width="60px">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" width="60px">
-  <img src="https://img.shields.io/badge/Prolog-000000?style=for-the-badge&logo=prolog&logoColor=white" alt="Prolog">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<br> 
 
-<div>
+<p> 💻
+Bibliotecas que mais utilizo:
+</p>
 
-<br>
-<br>
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
 <br>
 
 <div align=center>
-  <img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/unnamed.gif" width="170px">
+  <img src="https://github.com/powerandcontrol/powerandcontrol/blob/main/butterflies.gif" width="80px">
 </div>
 
 <br>
 
-
- <p align="center">
   <a href="https://github.com/powerandcontrol">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=powerandcontrol&theme=gruvbox_light&border=FFFFFF&background=0D1117" alt="Pe's GitHub streak"/>
   </a>
-</p>
 
+<br><br><br>
 
-<br>
-<br>
+> "Eu acredito fortemente que, quanto mais positivo, minha vibração é, mais clara a minha mensagem será. Eu mantenho meus pensamentos negativos de infiltrar meu caminho e meus sonhos. Os pensamentos de outras pessoas não são da minha conta."" - Erykah Badu  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aliineed&cover_image=true&theme=default&show_offline=false&background_color=3c2b06&interchange=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
+> 
 <br>
 
 <p>🌐 Minhas Redes Sociais: </p>
@@ -74,3 +51,8 @@ Tech Stack:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-lucas-moreira-706675256/)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dojaincel/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dojainceI)
+
+<br>
+<br>
+<br>
+
